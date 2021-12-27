@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Computer\source\repos\Practice3\Practice3\MyForm.h(395,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Computer\source\repos\Practice3\Practice3\MyForm.h(414,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Computer\source\repos\Practice3\Practice3\MyForm.h(441,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Computer\source\repos\Practice3\Practice3\MyForm.h(538,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Practice3.vcxproj -> C:\Users\Computer\source\repos\Practice3\Debug\Practice3.exe
